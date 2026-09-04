@@ -1,6 +1,6 @@
 # Hi, I'm Ayeman Ulfat 👋
-Master’s graduate in AI & Automation · Industrial research @ Volvo Cars · Applied AI & computer vision
-📍 Gothenburg / Trollhättan, Sweden  |  🎓 Högskolan Väst  |  🏭 Thesis @ Volvo Cars
+Master’s graduate in AI & Automation · Industrial research @ Volvo Cars · Master's in AI & Automation
+📍 Gothenburg, Sweden  |  🎓 Högskolan Väst  |  🏭 Thesis @ Volvo Cars
 
 <br>
 
