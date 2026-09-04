@@ -2,6 +2,14 @@
 Master’s graduate in AI & Automation · Industrial research @ Volvo Cars · Applied AI & computer vision
 📍 Gothenburg / Trollhättan, Sweden  |  🎓 Högskolan Väst  |  🏭 Thesis @ Volvo Cars
 
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayemanulfat@gmail.com)
+[![GitHub](https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyemanUlfat)
+
+</div>
+
 ## 🧠 About Me
 I am a Master’s graduate in **AI and Automation** at University West (Högskolan Väst), with industrial research experience at **Volvo Cars**.
 
